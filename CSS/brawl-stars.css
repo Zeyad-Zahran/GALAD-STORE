@@ -1,0 +1,77 @@
+body {
+    background-color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.BIGI {
+    background-color: #eee;
+    box-shadow:  0px 9px 8px 6px gray;
+    display: inline;
+}
+.home {
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+.com img {
+    width: 50px;
+    height: 50px;
+    display: inline;
+    margin: 20px 20px -40px 0px;
+}
+table {
+    width: 105px;
+    height: 315px;
+    color: white;
+    background-color: dodgerblue;
+    border: 5px solid #eee;
+    border-radius: 10px;
+    box-shadow:  0px 9px 8px 6px gray;;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+table td {
+    padding: 30px;
+    background-color: dodgerblue;
+    margin-bottom: 25px;
+}
+table thead td {
+    background-color: white;
+    color: dodgerblue;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: dodgerblue;
+}
+.sizon {
+    color: white;
+    background-color: dodgerblue;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow:   0px 9px 8px 6px gray;
+    border-color: white;
+    border-radius: 20px;
+    width: 120px;
+    height: 30px;
+}
+.t-2 {
+    width: 52.5px;
+    height: 162.5px;
+    color: white;
+    background-color: dodgerblue;
+    border: 5px solid #eee;
+    border-radius: 10px;
+    box-shadow:  0px 9px 8px 6px gray;;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.t-2 td {
+    padding: 3px;
+    background-color: dodgerblue;
+    margin-bottom: 2.5px;
+}
+.t-2 thead td {
+    background-color: white;
+    color: dodgerblue;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: dodgerblue;
+}
